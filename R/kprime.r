@@ -21,9 +21,9 @@
 # Author: Steven E. Pav
 # Comments: Steven E. Pav
 
-#' Inference on the Markowitz portfolio.
+#' Compute PQR functions of the K-prime distribution
 #' 
-#' @section Markowitz Portfolio:
+#' @section K-prime distribution
 #'
 #' foo.
 #'
@@ -38,14 +38,8 @@
 #'
 #' @references
 #'
-#' Brandt, Michael W. "Portfolio Choice Problems." Handbook of Financial
-#' Econometrics 1 (2009): 269--336. 
-#' \url{http://shr.receptidocs.ru/docs/5/4748/conv_1/file1.pdf#page=298}
-#'
-#' @import matrixcalc sandwich gtools
-#'
-#' @name kprime
-#' @rdname kprime
+#' @name kprime-package
+#' @rdname kprime-package
 #' @docType package
 #' @title statistics concerning the Markowitz portfolio
 #' @keywords package
